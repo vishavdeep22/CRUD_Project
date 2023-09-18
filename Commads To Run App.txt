@@ -1,5 +1,6 @@
 softwares should be intalled to run app are node js , mongodb, vs code 
-Firtly download and unzip file 
+
+Firtly download RAW FILE and unzip file 
 
 
 For FrontEnd
