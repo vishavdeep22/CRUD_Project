@@ -1,7 +1,8 @@
 softwares should be intalled to run app are node js , mongodb, vs code 
 
 Firtly download RAW FILE and unzip file 
-
+Then Open folder with VS Code 
+Then Commads mentioned below 
 
 For FrontEnd
 
