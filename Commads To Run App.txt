@@ -1,0 +1,18 @@
+softwares should be intalled to run app are node js , mongodb, vs code 
+Firtly download and unzip file 
+
+
+For FrontEnd
+
+Step 1 - Run commad in Terminal >cd frondend
+Step 2 - Then run >npm start
+
+
+For BackEnd
+
+Step 1 - Open New terminal
+Step 2 - Run commad in terminal >cd backend 
+Step 3 - then run >node server.js
+
+Localhost address of mongodb database to check data  >http://localhost:5000/
+
